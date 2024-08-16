@@ -1,0 +1,8 @@
+﻿  Building 'ProcMonDriver' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  ProcMonDriver.cpp
+  ProcMonDriver.vcxproj -> C:\Users\Yarden\Desktop\kernel_programing\Kernel_programing_rep\x64\Debug\ProcMonDriver.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\Yarden\Desktop\kernel_programing\Kernel_programing_rep\x64\Debug\ProcMonDriver.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  
